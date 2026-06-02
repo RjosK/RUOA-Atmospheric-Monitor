@@ -1,0 +1,7 @@
+polars>=1.0.0
+numpy
+pandas
+matplotlib
+seaborn
+windrose
+streamlit
